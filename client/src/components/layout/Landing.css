@@ -1,0 +1,10 @@
+img {
+   height: 100px;
+   width: 100px;
+}
+
+.home {
+    background-image: linear-gradient(to bottom right, blue, white);
+    width: 100%;
+    height: auto;
+}
